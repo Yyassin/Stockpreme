@@ -1,0 +1,3 @@
+username,Password@123!
+2810.2,2020/01/04 Deposit 4000.0,2020/01/04 Withdraw 594.9
+AAPL 2 297.45
