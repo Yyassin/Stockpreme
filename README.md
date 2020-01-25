@@ -5,7 +5,7 @@
 </span>
 
 # SudTacOku
-[![GitHub release](https://img.shields.io/github/v/release/Yyassin/SudTacOku.svg?colorB=97CA00?label=version)](https://github.com/Yyassin/SudTacOku/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/Yyassin/SudTacOku/total.svg?colorB=97CA00)](https://github.com/Yyassin/SudTacOku/releases) [![GitHub stars](https://img.shields.io/github/stars/Yyassin/SudTacOku.svg?colorB=007EC6)](https://github.com/Yyassin/SudTacOku/stargazers)  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/Yyassin/SudTacOku/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/Yyassin/Stockpreme.svg?colorB=97CA00?label=version)](https://github.com/Yyassin/Stockpreme/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/Yyassin/Stockpreme/total.svg?colorB=97CA00)](https://github.com/Yyassin/SudTacOku/releases) [![GitHub stars](https://img.shields.io/github/stars/Yyassin/Stockpreme.svg?colorB=007EC6)](https://github.com/Yyassin/Stockpreme/stargazers)  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/Yyassin/Stockpreme/master/LICENSE)
 
 > **Stockpreme** is stock tracking application developed by **Shrish Mohapatra**, **Yousef Yassin**, and **Kimberly Dao** using Java. Key features include an authentication system, ability to view real-time stock data (through Web Scraping), and other financial operations (withdraw, deposit, convert, etc).
 **Note: README is currently undergoing construction (upping my game :D), sorry for any inconveniences**.
@@ -29,10 +29,15 @@ From here, users have two options:
   Run **LoginMenu.java**.
   Note: You will need Java and the Eclipse IDE installed.
   
-  * You're done! 🎉
+ * Enjoy! 🎉
 
 ## Features
-- 
+- User Authentication & Saving Data
+- Transactions (Deposits, Withrawals)
+- Currency Conversion (w/ live data)
+- Stock ticker info lookup & tracking/history (w/ live data)
+- Stock Investing, Selling
+- And, of course, a beautiful interface.
 
 ## Important notes
 The document **Stockpreme - Documentation.pdf** explains the details of the project's development in exhaustive detail. Feel free to refer to this document as needed.
@@ -43,5 +48,5 @@ You will however need to login as an admin to be able to fully use the applicati
 ## Credits
 
 - **StockData, ATM** - **[@youf](https://github.com/Yyassin) 
-- **UI, Forms, ATM, Class Integration** - **[@shrishmohapatra]()
+- **UI, Forms, ATM, Class Integration** - **[@shrishmohapatra](https://github.com/shrish-mohapatra)
 - **CurrencyConverter** - Kimberly Dao
