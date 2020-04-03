@@ -5,7 +5,7 @@
 </span>
 
 # Stockpreme
-[![GitHub release](https://img.shields.io/github/v/release/Yyassin/Stockpreme.svg?colorB=97CA00?label=version)](https://github.com/Yyassin/Stockpreme/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/Yyassin/Stockpreme/total.svg?colorB=97CA00)](https://github.com/Yyassin/SudTacOku/releases) [![GitHub stars](https://img.shields.io/github/stars/Yyassin/Stockpreme.svg?colorB=007EC6)](https://github.com/Yyassin/Stockpreme/stargazers)  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/Yyassin/Stockpreme/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/Yyassin/Stockpreme.svg?colorB=97CA00?label=version)](https://github.com/Yyassin/Stockpreme/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/Yyassin/Stockpreme/total.svg?colorB=97CA00)](https://github.com/Yyassin/Stockpreme/releases) [![GitHub stars](https://img.shields.io/github/stars/Yyassin/Stockpreme.svg?colorB=007EC6)](https://github.com/Yyassin/Stockpreme/stargazers)  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/Yyassin/Stockpreme/master/LICENSE)
 
 > **Stockpreme** is stock tracking application developed by **Shrish Mohapatra**, **Yousef Yassin**, and **Kimberly Dao** using Java. Key features include an authentication system, ability to view real-time stock data (through Web Scraping), and other financial operations (withdraw, deposit, convert, etc).
 
