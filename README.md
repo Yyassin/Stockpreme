@@ -1,6 +1,6 @@
 <span title="SudTacOku Game Page Screenshot">
  <p align="center">
-  <img src="https://github.com/theRealShrishM/stockpreme/blob/master/src/img/stockpreme-login.jpg">
+  <img width = "800px" src="https://i.imgur.com/HNCepqz.png">
  </p>
 </span>
 
